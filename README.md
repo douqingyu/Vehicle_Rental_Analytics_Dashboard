@@ -1,4 +1,4 @@
-# Vehicle Rental Analytics Dashboard
+# EZU Vehicle Rental Analytics Dashboard
 
 ## Quick Start
 
