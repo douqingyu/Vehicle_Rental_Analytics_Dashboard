@@ -1,4 +1,4 @@
-# Vehicle Rental Web Application
+# Vehicle Rental Analytics Dashboard
 
 ## Quick Start
 
